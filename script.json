@@ -1,6 +1,6 @@
 {
 
- "BOT": "Hi there!\nWhat are you most interested in.\nWant to know more about? %[MY_BMC](postback:MY_BMC) %[Learn about habits](postback:my_habits) %[One random fact!](postback:random_fact)",
+ "BOT": "Hi there!\nWhat are you most interested in.\nWant to know more about? %[My_bmc](postback:MY_BMC) %[Learn about habits](postback:my_habits) %[One random fact!](postback:random_fact)",
    
  "HELLO": "Hey, thanks for your interest! Do you want to tell Nigel that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",

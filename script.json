@@ -1,13 +1,26 @@
 {
- "BOT": "Hi there!\nWhat are you most interested in.\nWant to know more about? %[My company](postback:my_bmc) %[Learn about habits](postback:my_habits) %[One random fact!](postback:random_fact)",
-   
- "HELLO": "Hey, thanks for your interest! Do you want to tell Nigel that you're talking to his bot? %[Tell him](postback:twitter)",
+
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "BUY": "Ok great $[25](25.00)",
     "MY_BMC": "Interesting",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
     "TEST": "Test back at ya",
+    "BOT": "Hi there!\nI’m BLAST, the personal bot of the Blended Learning Team\nWant to know more about Blended Learning? %[Learn about Blended](postback:learn_about_blended)",
+    "HELLO": "Hey, I'm so glad you're here! Do you want to learn more about Blended Learning? %[Learn About Blended](postback:learn_about_blended) %[Not now](postback:not_now)",
+    "LEARN ABOUT BLENDED": "Great! You want to learn about Blended! \n Here's a link to our website: %[Blended Learning Website](https://d6blhub.blogspot.com)",
+    "COACHING":"I see that you're interested in setting up a coaching session \n Tammy is our elementary coach and Ryan is our middle level coach \n Who would you like to set up a coaching session with? %[Tammy](postback:tammy) %[Ryan](postback:ryan)",
+    "TAMMY": "Tammy serves the following schools: \n Chappelow, Heiman, Meeker, and Winograd \n Schedule with Tammy? %[Yes](https://goo.gl/OXJQIP) %[Not now](postback:not_now)",
+    "RYAN": "Ryan serves the following schools: \n Brentwood, Franklin, Heath, and Prairie Heights \n Schedule with Ryan? %[Yes](https://goo.gl/gJ13Vj) %[Not now](postback:not_now)",
+    "NOT NOW": "OK then, what can I help you with? If you need help, simply type HELP",
+    "HELP": "Try typing one of these commands: \nHello, Coaching, Learn about Blended, Ryan, Tammy \nOr type COMMANDS to see all the commands you can say to BLAST!",
+    "COMMANDS": "You wish is my command %[Commands](https://goo.gl/dht5Z7)",
+    "APPOINTMENT": "I see you want to schedule an appointment. \nTammy is our elementary coach and Ryan is our middle level coach \n Who would you like to set up a coaching session with? %[Tammy](postback:tammy) %[Ryan](postback:ryan)",
+    "ABOUT RYAN": "Ryan has been with D6 for 10 years \nHis strength is in technology and digital content \nMore about Ryan will be coming soon!",
+    "ABOUT TAMMY": "Tammy was one of our first Blended teachers in D6 \nShe's all about the data! \nMore coming about Tammy soon!",
+    "INNOVATION CONFIGURATION": "I see you're interested in the Innovation Configuration \nLet's get you a copy %[Google Doc](https://goo.gl/24cVLo) or %[PDF](https://docs.google.com/document/d/1bPzBRxfmGvhX01fbzF3W1-HVUVtYFuWSZaSV0JheYQ8/export?format=pdf)",
+    "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
+  
 }

@@ -31,6 +31,16 @@ class BetterSmoochApiBot extends SmoochApiBot {
     }
 }
 
+{
+  "webhook": {
+    "_id": "55c8d9758590aa1900b9b9f6",
+    "triggers": [MY_BMC
+      "message"
+    ],
+    "secret": "339f4a387b53f5b62f4d0fde31afa85e19801195",
+    "target": "http://example.com/callback"
+  }
+}
 const name = 'SmoochBot';
 const avatarUrl = 'https://s.gravatar.com/avatar/f91b04087e0125153623a3778e819c0a?s=80';
 const store = new SmoochApiStore({

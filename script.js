@@ -29,16 +29,7 @@ module.exports = new Script({
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
-                        case "ASK":
-  bot.startConversation(message,function(err,convo) {
-
-    convo.say('Hello!');
-    convo.say('Have a nice day!');
-
-  })
-
-});
-                    default:
+                        default:
                         return Promise.resolve();
                 }
             }

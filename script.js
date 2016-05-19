@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi! I\'m Julie')
+            return bot.say('Hi, how're you doing? I\'m Julie')
                 .then(() => 'askName');
         }
     },
@@ -39,6 +39,8 @@ module.exports = new Script({
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
+                        case "FISH":
+                            return bot.say(`Great! nice to fish you ${name}`))
                     default:
                         return Promise.resolve();
                 }

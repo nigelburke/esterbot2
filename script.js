@@ -39,8 +39,6 @@ module.exports = new Script({
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
-                        case "FISH":
-                            return bot.say(`Great! nice to fish you ${name}`));
                     default:
                         return Promise.resolve();
                 }

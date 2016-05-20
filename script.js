@@ -24,7 +24,7 @@ module.exports = new Script({
             const name = message.text;
             return bot.setProp('name', name)
                 .then(() => bot.say(`Great! nice to meet you ${name}`))
-                .then(() => 'askhow');
+                .then(() => 'speak');
         }
     },
     

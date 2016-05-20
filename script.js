@@ -24,6 +24,16 @@ module.exports = new Script({
             const name = message.text;
             return bot.setProp('name', name)
                 .then(() => bot.say(`Great! nice to meet you ${name}`))
+                .then(() => 'askhow');
+        }
+    },
+    
+    askhow: {
+        prompt: (bot) => bot.say('So congratulations on the new job, how're you feeling about it?'),
+        receive: (bot, message) => {
+            const name = message.text;
+            return bot.setProp('name', name)
+                .then(() => bot.say(`Great! nice to meet you ${name}`))
                 .then(() => 'speak');
         }
     },

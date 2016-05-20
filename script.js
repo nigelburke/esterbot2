@@ -28,17 +28,7 @@ module.exports = new Script({
         }
     },
     
-    askhow: {
-        prompt: (bot) => bot.say('So congratulations on the new job how are you feeling about it?'),
-        receive: (bot, message) => {
-            const name = message.text;
-            return bot.setProp('ok', ok)
-                .then(() => bot.say(`Great! nice to meet you ${ok}`))
-                .then(() => 'speak');
-        }
-    },
-
-    speak: {
+     speak: {
         receive: (bot, message) => {
 
             let upperText = message.text.trim().toUpperCase();

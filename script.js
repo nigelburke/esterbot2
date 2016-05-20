@@ -33,7 +33,7 @@ module.exports = new Script({
         receive: (bot, message) => {
             const name = message.text;
             return bot.setProp('sname', sname)
-                .then(() => bot.say(`Great! nice to smeet you ${name}`))
+                .then(() => bot.say(`Great! nice to smeet you ${sname}`))
                 .then(() => 'speak');
         }
     },

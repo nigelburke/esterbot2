@@ -1,6 +1,6 @@
 {
 
- "MORE": "So on a scale of 1-5 how would you say you're feeling? %[1. Nervous](postback:MY_BMC) %[Learn about habits](postback:my_habits) %[One random fact!](postback:random_fact)",
+ "MORE": "So on a scale of 1-5 how would you say you're feeling? %[1.Nervous](postback:1.Nervous) %[Learn about habits](postback:my_habits) %[One random fact!](postback:random_fact)",
    
 "HELLO": "Hey, thanks for your interest! If you have the time I'd love to take a couple of minutes to get to know you a bit better and see how you're feeling about the new role: %[Lets_do_it](postback:LETS_DO_IT) %[No_thanks](postback:NO_THANKS) %[Maybe_later](postback:MAYBE_LATER)",
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
@@ -14,6 +14,7 @@
     "LETS_DO_IT": "Yeah lets",
     "CONNECT ME": "",
     "ASK": "askk",
+    "1.Nervous": "Yeah completely understandable"
     "DISCONNECT": "Roger that, EstherBot is back."
 }
   

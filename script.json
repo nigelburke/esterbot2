@@ -14,7 +14,7 @@
     "LETS_DO_IT": "Yeah lets",
     "CONNECT ME": "",
     "ASK": "askk",
-    "1.NERVOUS": "Yeah completely understandable %(postback:test)",
+    "1.NERVOUS": "Yeah completely understandable %[Sign up](http://rusdens.com)",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
   

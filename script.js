@@ -34,7 +34,7 @@ module.exports = new Script({
             const how = message.text;
             return bot.setProp('how', how)
                 .then(() => bot.say(`I'd love to hear more about that, if you'd like to carry on please type MORE`))
-                .then(() => '%[Tweet Esther](http://bit.ly/estherbot-tweet)');
+                .then(() => 'speak');
         }
     },
     

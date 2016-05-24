@@ -51,11 +51,6 @@ module.exports = new Script({
                         return bot.setProp("silent", false);
                     case "NIGE"    
                         prompt: (bot) => bot.say('So how are you feeling about the new role?'),
-            receive: (bot, message) => {
-            const how = message.text;
-            return bot.setProp('how', how)
-                .then(() => bot.say(`I'd love to hear more about that, if you'd like to carry on please type MORE`))
-                .then(() => 'speak');
                     default:
                         return Promise.resolve();
                 }

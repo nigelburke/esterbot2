@@ -49,8 +49,6 @@ module.exports = new Script({
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
-                    case "NIGE"    
-                        prompt: (bot) => bot.say('So how are you feeling about the new role?'),
                     default:
                         return Promise.resolve();
                 }

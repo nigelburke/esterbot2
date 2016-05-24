@@ -47,8 +47,6 @@ module.exports = new Script({
                 switch (upperText) {
                     case "CONNECT ME":
                         return bot.setProp("silent", true);
-                    case "NIGE":
-                        return bot.say(`I'd love to hear more about that, if you'd like to carry on please type MORE`);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
                     default:

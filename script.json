@@ -1,7 +1,7 @@
 {
 
- "MORE": "So on a scale of 1-5 how would you say you're feeling? %[Nervous](postback:nervous) %[Excited](postback:Excited) %[Unsure](postback:unsure)",
-   
+ "OLD MORE": "So on a scale of 1-5 how would you say you're feeling? %[Nervous](postback:nervous) %[Excited](postback:Excited) %[Unsure](postback:unsure)",
+   "MORE": "So from our conversations with people in a similar situation to yourself we have identified three areas that people need to think about when starting a new job.  Click on any of the buttons below to find out more? %[Understanding the company](postback:nervous) %[Developing technical skills](postback:Excited) %[Developing people skills](postback:unsure)",
 "START": "Hey, thanks for your interest! If you have the time I'd love to take a couple of minutes to get to know you a bit better and see how you're feeling about the new role: %[Lets_do_it](postback:LETS_DO_IT) %[No_thanks](postback:NO_THANKS) %[Maybe_later](postback:MAYBE_LATER)",
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",

@@ -33,7 +33,17 @@ module.exports = new Script({
         receive: (bot, message) => {
             const how = message.text;
             return bot.setProp('how', how)
-                .then(() => bot.say(`I'd love to hear more about that, if you'd like to carry on please type MORE`))
+                .then(() => bot.say(`Starting in a new position can certainly be a time of mixed emotions`))
+                .then(() => 'askq');
+        }
+    },
+    
+        askq: {
+        prompt: (bot) => bot.say('Have you had any thoughts on how you plan to approach your first few weeks in the job?'),
+        receive: (bot, message) => {
+            const q = message.text;
+            return bot.setProp('q', q)
+                .then(() => bot.say(`I'd love to talk more about that, if you'd like to carry on please type MORE`))
                 .then(() => 'speak');
         }
     },

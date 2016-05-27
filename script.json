@@ -18,9 +18,9 @@
     "CONNECT ME": "",
     "ASK": "askk",
     "ARE YOU BUSY": "Never too busy for you","ARE YOU BUSY?": "Never too busy for you",
-       "NERVOUS": "Yeah that's understandable, starting a new job can be quite daunting\nHave you thought about your approach to the first few weeks in the role?"
-    "EXCITED": "That's great to hear\nHave you thought about your approach to the first few weeks in the role?"
-    "UNSURE": "Yeah that's completely understandable, starting a new job can be a time of mixed emotions\nIs there anything you're particularly concerned about?"
+       "NERVOUS": "Yeah that's understandable, starting a new job can be quite daunting\nHave you thought about your approach to the first few weeks in the role?",
+    "EXCITED": "That's great to hear\nHave you thought about your approach to the first few weeks in the role?",
+    "UNSURE": "Yeah that's completely understandable, starting a new job can be a time of mixed emotions\nIs there anything you're particularly concerned about?",
  "1.NERVOUS": "Yeah completely understandable %[Sign up](http://rusdens.com)",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "NO PROBLEM": " ","NO PROBLEM?": " ",

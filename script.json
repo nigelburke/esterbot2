@@ -8,7 +8,7 @@
     "ABOUT": "You are chatting with Julie, an automated bot from Rusdens which will help you prepare for your new job\n If you would like to know more about Rusdens please click below%[MORE](http://rusdens.com)\n To get more help with this bot click below%[HELP](postback:HELP)\n To make a time to talk with a human click below %[HUMAN](http://rusdens.com/schedule-a-time/)",
     "BUY": "Ok great $[25](25.00)",
     "HELLO": "Hey, how's everything going?",
-    "MY_BMC": "Interesting",
+    "UNDERSTANDING THE COMPANY": "Interesting",
     "HELP": "Try typing one of these commands: \nHello",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
     "HUMAN": "If you'd rather talk with a human click below to schedule a time: %[DIARY](http://rusdens.com/schedule-a-time/)",

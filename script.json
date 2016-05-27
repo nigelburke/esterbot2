@@ -6,7 +6,7 @@
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "BUY": "Ok great $[25](25.00)",
-    "HELLO": "Hey, how's everything going?"
+    "HELLO": "Hey, how's everything going?",
     "MY_BMC": "Interesting",
     "HELP": "Try typing one of these commands: \nHello",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",

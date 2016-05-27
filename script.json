@@ -5,7 +5,7 @@
 "START": "Hey, thanks for your interest! If you have the time I'd love to take a couple of minutes to get to know you a bit better and see how you're feeling about the new role: %[Lets_do_it](postback:LETS_DO_IT) %[No_thanks](postback:NO_THANKS) %[Maybe_later](postback:MAYBE_LATER)",
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "ABOUT": "You are chatting with Julie, an automated bot from Rusdens which will help you prepare for your new job\n If you would like to know more about Rusdens please click below%[RUSDENS](http://rusdens.com)\n To get more help with this bot click below%[HELP](postback:HELP)\n To make a time to talk with a human click below %[HUMAN](http://rusdens.com/schedule-a-time/)",
+    "ABOUT": "You are chatting with Julie, an automated bot from Rusdens which will help you prepare for your new job\n If you would like to know more about Rusdens please click below%[MORE](http://rusdens.com)\n To get more help with this bot click below%[HELP](postback:HELP)\n To make a time to talk with a human click below %[HUMAN](http://rusdens.com/schedule-a-time/)",
     "BUY": "Ok great $[25](25.00)",
     "HELLO": "Hey, how's everything going?",
     "MY_BMC": "Interesting",

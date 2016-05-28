@@ -8,7 +8,7 @@
     "ABOUT": "You are chatting with Julie, an automated bot from Rusdens which will help you prepare for your new job\n If you would like to know more about Rusdens please click below%[MORE](http://rusdens.com)\n To get more help with this bot click below%[HELP](postback:HELP)\n To make a time to talk with a human click below %[HUMAN](http://rusdens.com/schedule-a-time/)",
     "BUY": "Ok great $[25](25.00)",
     "HELLO": "Hey, how's everything going?",
-    "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot if you would like to know more about our approach to understanding the company using the business model canvas please click below %[MORE] (http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",
+    "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot if you would like to know more about our approach to understanding the company using the business model canvas please click below  %[MORE](http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",
     "DEVELOPING TECHNICAL SKILLS": "Interesting, are there any particular skills you think it would be helpful to work on before you start?",
     "DEVELOPING PEOPLE SKILLS": "Interesting",
     "HELP": "Try typing one of these commands: \nHello",

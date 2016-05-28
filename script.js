@@ -43,7 +43,7 @@ module.exports = new Script({
         receive: (bot, message) => {
             const q = message.text;
             return bot.setProp('q', q)
-                .then(() => bot.say(`I'd love to talk more about that, if you'd like to carry on please type MORE`))
+                .then(() => bot.say(`I'd love to talk more about that, if you'd like to carry on please type CONTINUE`))
                 .then(() => 'speak');
         }
     },

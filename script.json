@@ -10,7 +10,7 @@
     "HELLO": "Hey, how's everything going?",
     "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot if you would like to know more about our approach to understanding the company using the business model canvas please click below  %[MORE](http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",
     "DEVELOPING TECHNICAL SKILLS": "Yes technical skills are an important part of creating a strong first impression. Are there any particular tools or skills you think it would be helpful to work on before you start?",
-    "DEVELOPING PEOPLE SKILLS": "We are still building out this part of the bot but would love to hear what sort of people skills you think would be good to know about,
+    "DEVELOPING PEOPLE SKILLS": "We are still building out this part of the bot but would love to hear what sort of people skills you think would be good to know about",
     "HELP": "Try typing one of these commands: \nHello",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
     "HUMAN": "If you'd rather talk with a human click below to schedule a time: %[DIARY](http://rusdens.com/schedule-a-time/)",

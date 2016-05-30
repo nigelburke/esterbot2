@@ -13,7 +13,7 @@
     "DEVELOPING PEOPLE SKILLS": "We are still building out this part of the bot but would love to hear what sort of people skills you think would be good to know about",
     "HELP": "We are still in the early days of building out this bot so some words and phrases will still be missing.\n To learn more try typing ABOUT",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
-    "WAVE": "Hello (postback:ABOUT)"
+    "WAVE": "Hello (postback:ABOUT)",
     "HUMAN": "If you'd rather talk with a human click below to schedule a time: %[DIARY](http://rusdens.com/schedule-a-time/)",
     "TEST": "Test back at ya",
     "MAYBE_LATER": "Do you want me to remind you?",

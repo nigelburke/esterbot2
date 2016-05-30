@@ -10,7 +10,7 @@
     "HELLO": "Hey, how's everything going?",
     "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot if you would like to know more about our approach to understanding the company using the business model canvas please click below  %[MORE](http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",
     "DEVELOPING TECHNICAL SKILLS": "Yes technical skills are an important part of creating a strong first impression. Are there any particular tools or skills you think it would be helpful to work on before you start?",
-    "DEVELOPING PEOPLE SKILLS": "Interesting",
+    "DEVELOPING PEOPLE SKILLS": "We are still building out this part of the bot but would love to hear what sort of people skills you think would be good to know about,
     "HELP": "Try typing one of these commands: \nHello",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
     "HUMAN": "If you'd rather talk with a human click below to schedule a time: %[DIARY](http://rusdens.com/schedule-a-time/)",
@@ -350,8 +350,8 @@
 "STATISTICAL ANALYSIS": "Have you thought about online training?\n you might find Statistical Analysis Excel 2013 Essentials interesting %[More](http://click.linksynergy.com/link?id=N6a3jC/imbg&offerid=323058.285632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fstatistical-analysis-excel-2013-essentials%2F)",
 "SWIFT": "Have you thought about online training?\n you might find Beginners Swift Programming For iOS Development interesting %[More](http://click.linksynergy.com/link?id=N6a3jC/imbg&offerid=323058.319728&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fbeginners-swift-programming-for-ios-development%2F)",
 "VBA": "Have you thought about online training?\n you might find Visual Basic for Excel - Microsoft VBA Excel Tutorial interesting %[More](http://click.linksynergy.com/link?id=N6a3jC/imbg&offerid=323058.20611&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flearning-visual-basic-for-microsoft-excel%2F)",
-"WORD": "Have you thought about online training?\n you might find Intermediate Microsoft Word 2010 interesting %[More](http://click.linksynergy.com/link?id=N6a3jC/imbg&offerid=323058.17954&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fintermediate-microsoft-word-2010%2F)"
-
+"WORD": "Have you thought about online training?\n you might find Intermediate Microsoft Word 2010 interesting %[More](http://click.linksynergy.com/link?id=N6a3jC/imbg&offerid=323058.17954&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fintermediate-microsoft-word-2010%2F)",
+"NETWORKING": "Networking with new collegue can be really important.  To see more of our thoughts on this click below %[MORE](http://rusdens.com/blog/2010/05/networking-for-career-success/)"
 
 }
   

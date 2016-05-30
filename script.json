@@ -9,7 +9,7 @@
     "BUY": "Ok great $[25](25.00)",
     "HELLO": "Hey, how's everything going?",
     "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot if you would like to know more about our approach to understanding the company using the business model canvas please click below  %[MORE](http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",
-    "DEVELOPING TECHNICAL SKILLS": "Interesting, are there any particular skills you think it would be helpful to work on before you start?",
+    "DEVELOPING TECHNICAL SKILLS": "Yes technical skills are an important part of creating a strong first impression, are there any particular tools or skills you think it would be helpful to work on before you start?",
     "DEVELOPING PEOPLE SKILLS": "Interesting",
     "HELP": "Try typing one of these commands: \nHello",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",

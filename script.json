@@ -32,9 +32,10 @@
 "AM I BEAUTIFUL": "I'm sure you are","AM I BEAUTIFUL?": "I'm sure you are",
 "AM I CRAZY": "I'm sure you are","AM I CRAZY?": "I'm sure you are",
 "AM I YOUR BOSS": "I'm sure you are","AM I YOUR BOSS?": "I'm sure you are",
-"I AM FROM REDDIT": "Yeah I used to be at reddit before I became a chatbot \n [reddit](https://github.com/nigelburke/esterbot2/blob/master/img/0OiDVXk.jpg)
-","I'M FROM REDDIT": "Yeah I used to be at reddit before I became a chatbot \n [reddit](https://github.com/nigelburke/esterbot2/blob/master/img/0OiDVXk.jpg)”, "REDDIT": "Yeah I used to be at reddit before I became a chatbot \n [reddit]( https://github.com/nigelburke/esterbot2/blob/master/img/0OiDVXk.jpg)”,
-
+"I AM FROM REDDIT": "Yeah I used to be at reddit before I became a chatbot \n![reddit](https://raw.githubusercontent.com/nigelburke/esterbot2/master/img/0OiDVXk.jpg)
+",
+"I'M FROM REDDIT": "Yeah I used to be at reddit before I became a chatbot \n![reddit2](https://raw.githubusercontent.com/nigelburke/esterbot2/master/img/0OiDVXk.jpg)”, 
+"REDDIT": "Yeah I used to be at reddit before I became a chatbot \n [reddit]( https://raw.githubusercontent.com/nigelburke/esterbot2/master/img/0OiDVXk.jpg)”,
 "ANSWER MY QUESTION": "I'll try my best","ANSWER MY QUESTION?": "I'll try my best",
 "ARE YOU BUSY": "Never too busy for you","ARE YOU BUSY?": "Never too busy for you",
 "ARE YOU OK": "I'm great thanks","ARE YOU OK?": "I'm great thanks",

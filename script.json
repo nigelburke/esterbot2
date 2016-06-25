@@ -6,7 +6,7 @@
 "START": "Hey, thanks for your interest! If you have the time I'd love to take a couple of minutes to get to know you a bit better and see how you're feeling about the new role: %[Lets_do_it](postback:LETS_DO_IT) %[No_thanks](postback:NO_THANKS) %[Maybe_later](http://rusdens.com/schedule-a-time/),
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "ABOUT": "You are chatting with Julie, an automated bot from Rusdens which will help you prepare for your new job\n If you would like to know more about Rusdens please click below%[MORE](http://rusdens.com)\n To find out how you can a good start on your new job click here%[START](postback:START)\n To make a time to talk with a human click below %[HUMAN](http://rusdens.com/schedule-a-time/)",
+    "ABOUT": "You are chatting with Julie, an automated bot from Rusdens which will help you prepare for your new job\n If you would like to know more about Rusdens please click below%[MORE](http://rusdens.com)\n To find out how you can a good start on your new job click here%[START](postback:START)\n To make a time to talk with a human click below %[HUMAN](postback:HUMAN)",
     "BUY": "Ok great $[25](25.00)",
     "HELLO": "Hey, how's everything going?",
     "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot if you would like to know more about our approach to understanding the company using the business model canvas please click below  %[MORE](http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",

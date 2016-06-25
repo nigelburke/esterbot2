@@ -17,7 +17,7 @@
     "WAVE": "Hello (postback:ABOUT)",
     "HUMAN": "If you'd rather talk with a human click below to schedule a time: %[DIARY](http://rusdens.com/schedule-a-time/)",
     "TEST": "Test back at ya",
-    "MAYBE_LATER": "Do you want me to remind you?",
+    "MAYBE_LATER":  "If you'd rather talk with a human click below to schedule a time: %[DIARY](http://rusdens.com/schedule-a-time/)",
     "NIGE": "hi nige",
     "CONNECT ME": "",
     "ASK": "askk",

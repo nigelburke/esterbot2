@@ -10,7 +10,7 @@
     "BUY": "Ok great $[25](25.00)",
     "HELLO": "Hey, how's everything going?",
  "NO_THANKS": "Well maybe some other time?",
- "EXAMPLES": "Think about specific skills such as Project Management, Business Development or Accounting.  \n Alternatively brush up on your IT skills for example Microsoft Excel, Oracle SQL or HTML 5",
+ "EXAMPLES": "Think about specific business skills you might need such as Project Management, Business Development or Accounting.  \n Alternatively brush up on your IT knowledge for example Microsoft Excel, Oracle SQL or HTML 5 \n Are there any specific skills you would like to develop further?",
     "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot if you would like to know more about our approach to understanding the company using the business model canvas please click below  %[MORE](http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",
     "DEVELOPING TECHNICAL SKILLS": "Yes technical skills are an important part of creating a strong first impression. Are there any particular tools or skills you think it would be helpful to work on before you start? \n For ideas on the types of skills people consider type EXAMPLES below",
     "DEVELOPING PEOPLE SKILLS": "We are still building out this part of the bot but would love to hear what sort of people skills you think would be good to know about",

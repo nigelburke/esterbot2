@@ -9,6 +9,8 @@
     "ABOUT": "You are chatting with Julie, an automated bot from Rusdens which will help you prepare for your new job\n If you would like to know more about Rusdens please click below%[MORE](http://rusdens.com)\n To find out how you can a good start on your new job click here%[START](postback:START)\n To make a time to talk with a human click below %[HUMAN](postback:HUMAN)",
     "BUY": "Ok great $[25](25.00)",
     "HELLO": "Hey, how's everything going?",
+ "HI": "Hey, how's everything going?",
+ "HEY": "Hey, how's everything going?",
  "NO_THANKS": "Well maybe some other time?",
  "EXAMPLES": "Think about specific business skills you might need such as Project Management, Business Development or Accounting.  \n Alternatively brush up on your IT knowledge for example Microsoft Excel, Oracle SQL or HTML 5 \n Are there any specific skills you would like to develop further?",
     "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot if you would like to know more about our approach to understanding the company using the business model canvas please click below  %[MORE](http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",

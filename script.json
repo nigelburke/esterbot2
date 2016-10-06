@@ -15,7 +15,7 @@
  "EXAMPLES": "Think about specific business skills you might need such as Project Management, Business Development or Accounting.  \n Alternatively brush up on your IT knowledge for example Microsoft Excel, Oracle SQL or HTML 5 \n Are there any specific skills you would like to develop further?",
     "UNDERSTANDING THE COMPANY": "We are still building out this part of the bot\n In the meantime, if you would like to know more about our approach to understanding the company using the business model canvas please click below  %[MORE](http://rusdens.com/trial/introduction-to-the-business-model-canvas/)",
     "DEVELOPING TECHNICAL SKILLS": "Yes technical skills are an important part of creating a strong first impression. Are there any particular tools or skills you think it would be helpful to work on before you start? \n For ideas on the types of skills people consider type EXAMPLES below",
-    "DEVELOPING PEOPLE SKILLS": "We are still building out this part of the bot but would love to hear what sort of people skills you think would be good to know about",
+    "DEVELOPING PEOPLE SKILLS": "People skills are definately a key element of creating a strong first impression. Are there any particular tools or skills you think it would be helpful to work on before you start? \n For example you might want to consider time management, networking or problem solving",
     "HELP": "We are still in the early days of building out this bot so some words and phrases will still be missing.\n To learn more try typing ABOUT",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
     "WAVE": "Hello (postback:ABOUT)",

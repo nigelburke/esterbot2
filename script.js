@@ -73,17 +73,16 @@ module.exports = new Script({
 do not have an entry in the scripts.json file. */
             function getReply() {
                 var messages = [ "Sorry. I'm didn't quite understand that one, could you try saying it a different way?",
-"Hey, I didn't understand that. I suggest typing HELP OUT",
+"Hey, I didn't understand that. I suggest typing ABOUT",
 "Text me ABOUT to learn about the Rusdens onboarding project.",
 "I'm a computer chatbot that only responds to simple command. Maybe try rephrasing or type ABOUT to learn more",
 "The Chat is not a human, it is just a series of files on a computer. Text ABOUT to learn more.",
-"Seriously, you are wayyyyy smarter than me, could you try saying that in a different way?",
 "Sorry, I do not know what you are talking about.",
 "That's interesting, I never thought of that.",
 "Can you say that again?",
-"Yeah... that happens from time to time. Try HELP OUT or ABOUT.",
-"That is a ton of words you just wrote there... I really don't know. Try HELP OUT ",
-"Right now, punctuation throws me off. Send text without it",
+"Yeah... that happens from time to time. Try CONTINUE or ABOUT.",
+"That is a ton of words you just wrote there... I really don't know. Try CONTINUE or ABOUT.",
+"Sometimes punctuation or spelling throws me off. Can you try saying that a different way?",
 "Try sending a command without punctuation.",
 "At this stage I'm programmed to ignore punctuation,  so if you're sending something other than letters there's a chance that I won't understand it."
 

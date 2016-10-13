@@ -29,11 +29,11 @@ module.exports = new Script({
     },
     
     askhow: {
-        prompt: (bot) => bot.say('So how are you feeling about the new role?'),
+        prompt: (bot) => bot.say('Do you have a start date yet for the new role?'),
         receive: (bot, message) => {
             const how = message.text;
             return bot.setProp('how', how)
-                .then(() => bot.say(`Well starting in a new job can certainly be a time of mixed emotions`))
+                .then(() => bot.say(`ok great, I can follow again in a few weeks if you like`))
                 .then(() => 'askq');
         }
     },
